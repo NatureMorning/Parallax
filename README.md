@@ -1,5 +1,5 @@
 # parallax
- Unfinished Project
+
  
  Canaria, Jomarie(Leader),
  Morco, Kevin Christopher,
